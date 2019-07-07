@@ -23,8 +23,7 @@ struct MealCard : View {
             .padding(20)
             
             Button(action: {
-                
-               print("this is not what we planne ")
+                print("toggling favorite meal")
             }) {
                 HStack(){
                     Image(systemName:meal.isFavorite ?  "star.fill" : "star" ).resizable().frame(width:12, height:12)
