@@ -22,25 +22,7 @@ struct ContentView : View {
               
                 Spacer()
                 
-                HStack{
-                    VStack{
-                        Image(systemName: "location.circle")
-                        Text("Discover")
-                    }.foregroundColor(.white)
-                    Spacer()
-                    
-                    VStack{
-                        Image(systemName: "cart")
-                        Text("Ingredients")
-                    }.foregroundColor(Color("fadeWhite"))
-                    Spacer()
-                    
-                    
-                    VStack{
-                        Image(systemName: "person")
-                        Text("Profile")
-                    }.foregroundColor(Color("fadeWhite"))
-                }.padding(.horizontal, 40).padding(.bottom, 100)
+                BottomMenu()
             
             }.background(Color("bottomColor")).edgesIgnoringSafeArea(.bottom)
         }

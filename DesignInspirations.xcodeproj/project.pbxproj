@@ -23,6 +23,7 @@
 		9EC7742122D2314F00D443A1 /* TrendingMenus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EC7742022D2314F00D443A1 /* TrendingMenus.swift */; };
 		9EC7742322D2332C00D443A1 /* MealCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EC7742222D2332C00D443A1 /* MealCard.swift */; };
 		9EC7742522D2554000D443A1 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EC7742422D2554000D443A1 /* Meal.swift */; };
+		9EC7742722D2770300D443A1 /* BottomMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EC7742622D2770300D443A1 /* BottomMenu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		9EC7742022D2314F00D443A1 /* TrendingMenus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendingMenus.swift; sourceTree = "<group>"; };
 		9EC7742222D2332C00D443A1 /* MealCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealCard.swift; sourceTree = "<group>"; };
 		9EC7742422D2554000D443A1 /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
+		9EC7742622D2770300D443A1 /* BottomMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomMenu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				9EC7741E22D22A8700D443A1 /* MenuItemView.swift */,
 				9EC7742022D2314F00D443A1 /* TrendingMenus.swift */,
 				9EC7742222D2332C00D443A1 /* MealCard.swift */,
+				9EC7742622D2770300D443A1 /* BottomMenu.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 				9EC7742522D2554000D443A1 /* Meal.swift in Sources */,
 				9EC7742322D2332C00D443A1 /* MealCard.swift in Sources */,
 				9EC7742122D2314F00D443A1 /* TrendingMenus.swift in Sources */,
+				9EC7742722D2770300D443A1 /* BottomMenu.swift in Sources */,
 				9EC773FF22D1F73F00D443A1 /* SceneDelegate.swift in Sources */,
 				9EC7741D22D2231100D443A1 /* RecipeDataStore.swift in Sources */,
 				9EC7741F22D22A8700D443A1 /* MenuItemView.swift in Sources */,
